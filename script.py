@@ -12,8 +12,10 @@ alpha = list("abcdefghijklmnopqrstuvwxyz")
 t = "dk. afr dkl. rwklstb, gy fwdztk ygwk, hkoxtm rkoxt, ctkt hkgwr mg lab miam mitb ctkt htkytemsb fgkdas, miafq bgw xtkb dwei. mitb ctkt mit salm htghst bgw’r tvhtem mg zt ofxgsxtr of afbmiofu lmkafut gk dblmtkogwl, zteawlt mitb pwlm rorf’m igsr comi lwei fgfltflt."
 
 #t = "dk. afr dkl. rwklstb, gy fwdztk ygwk, hkoxtm rkoxt, ctkt hkgwr mg lab miam mitb ctkt htkytemsb fgkdas"
-to_ignore = "dkafrlmngqctkwhemoszteawltmitbhtkytemsbxtvhtemp\'"
-map_of_ignored = "mrandstfokwerupctilbecausetheyperfectlyvexceptj\'"
+#list of alphabet with known keys
+to_ignore = "dka\'"
+#the knowm keys
+map_of_ignored = "m\'"
 
 solutions = []
 keys = []
