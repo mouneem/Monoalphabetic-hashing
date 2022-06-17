@@ -1,5 +1,5 @@
 ﻿# Monoalphabetic-hashing
-This is a Python brute-force script for mono-alphabetic decoding
+This is a Python brute-force script for mono-alphabetic decoding.
 
 The script use the ```csv``` , ```random``` pacakges
 
